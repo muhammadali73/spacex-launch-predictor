@@ -275,4 +275,4 @@ with tab3:
         st.progress(int(prob * 100))
         st.caption(f"Confidence: {prob:.2%}")
 
-st.write("© 2025 SpaceX Launch Dashboard")
+st.write("© 2025 SpaceX Launch Dashboard created by Muhammad Ali SMITian")
